@@ -10,6 +10,7 @@
         "aria-required-children": "off",
         "aria-allowed-attr": "off"
       }
-    ]
+    ],
+    "axe/text-alternatives": "off"
   }
 }
