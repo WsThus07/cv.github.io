@@ -129,7 +129,12 @@
     /* Couleur de l'icône (blanc) */
   }
   .background-container::before {
-
+    background-image: url('../images/background.jpg');
+    background-size: auto;
+    /* Adjust the background image size */
+    background-position: center;
+    filter: brightness(0.7);
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
