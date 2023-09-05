@@ -131,11 +131,7 @@
 .background-container section {
   height: 100vh;
     /* Create a pseudo-element */
-    background-image: url('/images/pexels-marek-levak-2265488.jpg');
-    /* Replace 'your-image.jpg' with the path to your image */
-    background-size: cover;
-    /* Adjust the background image size to cover the container */
-    background-position: center;
+
 }
 
 .background-container::before {
