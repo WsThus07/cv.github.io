@@ -129,7 +129,7 @@
     /* Couleur de l'icône (blanc) */
   }
 
-  .background-container::before {
+  .background-container {
 
     /* Create a pseudo-element */
     background-image: url('../../images/pexels-marek-levak-2265488.JPG');
